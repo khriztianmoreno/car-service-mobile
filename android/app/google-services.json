@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "61876614429",
+    "firebase_url": "https://mobi-c8675.firebaseio.com",
+    "project_id": "mobi-c8675",
+    "storage_bucket": "mobi-c8675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61876614429:android:41ad5a6c42b614a9",
+        "android_client_info": {
+          "package_name": "com.sapco.sapcoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61876614429-ml8t5ldkspd7um34v4jf8m1v3qk85bt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfSGuZWChtDDY8VR34kxuc4scIcx8P7Ug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
