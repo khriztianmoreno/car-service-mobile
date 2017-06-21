@@ -1,5 +1,5 @@
-# Mobi App
-Mobile Application that allows you to handle your car expenses. This application is made with React Native.
+# Car Service Mobile
+Application that allows you to know the state of your vehicle and carry expenses. This application is made with [React Native](https://facebook.github.io/react-native/).
 
 ## Tools used in this project
 * [React Native](https://facebook.github.io/react-native/)
@@ -19,9 +19,9 @@ Mobile Application that allows you to handle your car expenses. This application
 
 
 ## Getting started
-1. [Fork this repository](https://github.com/ingenieriasapco/mobi-app).
-2. Clone your repository ```git@github.com:YOUR_GITHUB_USER/mobi-app.git```.
-3. Change the current directory to the project ```cd mobi-app```.
+1. [Fork this repository](https://github.com/khriztianmoreno/car-service-mobile).
+2. Clone your repository ```git@github.com:YOUR_GITHUB_USER/car-service-mobile.git```.
+3. Change the current directory to the project ```cd car-service-mobile```.
 4. Install the project dependencies ```npm install```.
 5. Make sure you have correctly installed React Native and the **Android/iOS** environment following the [React Native official guide](https://facebook.github.io/react-native/docs/getting-started.html#content).
 6. Start the server ```react-native start```
@@ -32,8 +32,8 @@ We use [airbnb-javascript](https://github.com/airbnb/javascript) as JavaScript c
 
 **For code contributions:**
 
-1. [Fork this repository](https://github.com/ingenieriasapco/mobi-app).
-2. Clone your forked repository ```git@github.com:YOUR_GITHUB_USER/mobi-app.git```.
+1. [Fork this repository](https://github.com/khriztianmoreno/car-service-mobile).
+2. Clone your forked repository ```git@github.com:YOUR_GITHUB_USER/car-service-mobile.git```.
 3. We use [git-flow](http://danielkummer.github.io/git-flow-cheatsheet/) and we highly recommend you to install and use it to make the workflow easier.
 4. Create a branch for the feature you will work in. If you have installed git-flow you can use the command ```git flow feature start your-feature-name```.
 5. Upload the feature branch to your forked repository. If you have installed git-flow you can use the command ```git flow feature publish your-feature-name```.
