@@ -2594,15 +2594,7 @@ fbjs@^0.8.5:
     promise "^7.1.1"
     ua-parser-js "^0.7.9"
 
-feathers-authentication-client@0.1.10:
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/feathers-authentication-client/-/feathers-authentication-client-0.1.10.tgz#396059ec877f31d50ab5a8de0f88444c6313557a"
-  dependencies:
-    debug "^2.2.0"
-    feathers-errors "^2.4.0"
-    jwt-decode "^2.1.0"
-
-feathers-authentication-client@^0.3.1:
+feathers-authentication-client@0.3.3, feathers-authentication-client@^0.3.1:
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/feathers-authentication-client/-/feathers-authentication-client-0.3.3.tgz#d2183e4b08287dfd3ecb4a96eb081cf0b4e7c263"
   dependencies:
